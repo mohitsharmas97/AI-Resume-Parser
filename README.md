@@ -1,4 +1,4 @@
-# ResumeHub - AI Resume Intelligence Platform
+# ResumeHub -  AI Resume Intelligence Platform
 
 A comprehensive AI-powered resume parsing and analysis platform built with FastAPI and Google Gemini. This application provides intelligent resume parsing, detailed scoring, AI-powered suggestions, and analytics capabilities through both a REST API and an interactive web interface.
 <img width="1481" height="939" alt="Screenshot 2026-01-02 130550" src="https://github.com/user-attachments/assets/75cad960-188c-4efb-9cdc-5e196d770a97" />
